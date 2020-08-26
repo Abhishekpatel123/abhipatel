@@ -1,0 +1,8 @@
+title: Abhipatel
+description: this is my first repository
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
