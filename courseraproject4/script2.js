@@ -1,2 +1,2 @@
-hello();
+
 Goodby();
