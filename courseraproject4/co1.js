@@ -1,5 +1,5 @@
 
-var arr = ["abhishek", "abhinav", "jack", "JON", "priyanshu", "madhur", "aditya"];
+var arr = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry" , "Paula" ,"Laura", "Jim" ];
 function Goodby() {
     for (var i = 0; i < arr.length; i++) {
         var name = arr[i].charAt(0);
@@ -10,3 +10,4 @@ function Goodby() {
         }
     }
 }
+
