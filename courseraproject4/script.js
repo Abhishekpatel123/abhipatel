@@ -8,6 +8,9 @@ function Goodby() {
 
 
         }
+        else{
+            console.log("Hello " + arr[i]);
+        }
     }
 }
 
